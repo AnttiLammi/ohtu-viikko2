@@ -5,9 +5,7 @@ import org.springframework.context.support.FileSystemXmlApplicationContext;
 
 import ohtu.verkkokauppa.Kauppa;
 import ohtu.verkkokauppa.Kirjanpito;
-import ohtu.verkkokauppa.Pankki;
-import ohtu.verkkokauppa.Varasto;
-import ohtu.verkkokauppa.Viitegeneraattori;
+
 
 public class Main {
 
