@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "ohtu-viikko2",
+                "projectName": "ohtu-viikko2",
+                "workingDirectory": "/home/local/antlammi/Documents/OhTu/ohtu-viikko2",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "ohtu-viikko2",
+                "projectName": "ohtu-viikko2",
+                "workingDirectory": "/home/local/antlammi/Documents/OhTu/ohtu-viikko2",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
